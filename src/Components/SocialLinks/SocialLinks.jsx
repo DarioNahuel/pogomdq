@@ -3,6 +3,7 @@ import './SocialLinks.css';
 import whatsappIcon from '/whatsapp.svg';
 import instagramIcon from '/instagram.svg';
 import campfireIcon from '/campfire.png';
+import facebookIcon from '/facebook.svg';
 
 const socialLinks = [
   {
@@ -16,6 +17,12 @@ const socialLinks = [
     icon: instagramIcon,
     alt: 'Instagram',
     label: 'Instagram'
+  },
+  {
+    href: 'https://www.facebook.com/groups/pokemongomardelplata/?ref=share&mibextid=NSMWBT',
+    icon: facebookIcon,
+    alt: 'Facebook',
+    label: 'Facebook'
   },
   {
     href: 'https://campfire.onelink.me/eBr8?af_dp=campfire://&af_force_deeplink=true&deep_link_sub1=cj1jbHVicyZjPTMzZDdlNTJjLTkwNDgtNDk4Ni05NzJjLWJkNGNmZjk0OTM2ZSZpPXRydWU=',
