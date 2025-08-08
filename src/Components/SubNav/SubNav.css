@@ -1,0 +1,18 @@
+.subnav {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  justify-content: center;
+}
+
+.subnav-logo {
+  height: 150px;
+  margin-right: 20px;
+}
+
+.subnav-links a {
+  margin-right: 15px;
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}

@@ -1,0 +1,28 @@
+.social-section {
+  padding: 10px 20px;
+  text-align: center;
+  background-color: #16161d;
+}
+
+.social-title {
+  margin-top: 0px;
+}
+
+.social-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 1rem;
+}
+
+.social-row img {
+  width: 60px;
+  height: 60px;
+  max-width: 100%;
+  transition: transform 0.2s;
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+  padding: 0.5rem;
+}
