@@ -12,7 +12,7 @@ const socialLinks = [
     label: 'WhatsApp'
   },
   {
-    href: 'https://instagram.com/tu-cuenta',
+    href: 'https://www.instagram.com/mar.del.plata_go',
     icon: instagramIcon,
     alt: 'Instagram',
     label: 'Instagram'
