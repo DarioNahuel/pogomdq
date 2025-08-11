@@ -1,13 +1,18 @@
 .subnav {
   display: flex;
   align-items: center;
-  padding: 10px 20px;
+  padding: 10px 20px 0px;
   justify-content: center;
 }
 
 .subnav-logo {
   height: 150px;
-  margin-right: 20px;
+}
+
+@media (max-width: 600px) {
+  .subnav-logo {
+    height: 100px;
+  }
 }
 
 .subnav-links a {
