@@ -8,14 +8,17 @@ const SocialMediaButton = ({
   href,
   alt,
   label,
-  className
+  className,
+  as = 'a',
+  onClick = () => {},
 }) => (
-  <div className={clsx('social-media-button-container', className)}>
+  <div className={clsx('social-media-button-container', className)} onClick={onClick}>
     <a
       href={href}
       target="_blank"
       rel="noopener noreferrer"
       className="social-media-button"
+      as={as}
     >
       <img 
         src={icon} 
