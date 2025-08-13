@@ -3,6 +3,7 @@ import './Album.css';
 
 import { MasonryPhotoAlbum } from "react-photo-album";
 import "react-photo-album/masonry.css";
+import teams from '/teams.png';
 
 const photos = [
   { src: "/meeting.png", width: 1200, height: 800 },
@@ -15,6 +16,7 @@ const photos = [
 const Album = () => {
   return (
     <div className="meetings">
+      <img src={teams} alt="Teams" className="teams-image" />
       <h4>En nuestros eventos presenciales de la comunidad de Pokémon GO Mar del Plata, sorteamos premios, compartimos unos mates y disfrutamos juntos de un buen rato jugando. ¡Siempre hay buena onda, comunidad y muchas poképaradas cerca!</h4>
       <MasonryPhotoAlbum  photos={photos} />
     </div>
