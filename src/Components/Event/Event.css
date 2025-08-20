@@ -95,6 +95,21 @@
   margin: 0px;
 }
 
+@media (max-width: 600px) {
+  .event-title {
+    font-size: 14px;
+  }
+
+  .event-date {
+    font-size: 14px;
+  }
+
+  .event-image {
+    width: 100px;
+    height: 60px;
+  }
+}
+
 .event-timer {
   font-size: 14px;
 }
