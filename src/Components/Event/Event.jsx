@@ -39,10 +39,11 @@ const EventCard = ({ event }) => {
       </div>
 
       <div className="event-body">
-        <img src={event.image} alt={event.name} className="event-image" />
+        <h2 className="event-title">{event.name}</h2>
+
 
         <div className="event-content">
-          <h2 className="event-title">{event.name}</h2>
+            <img src={event.image} alt={event.name} className="event-image" />
           <p className="event-date">
             {new Date(event.start).toLocaleString()}
           </p>

@@ -64,9 +64,9 @@
 
 .event-body {
   display: flex;
-  align-items: center;
   padding: 12px;
   gap: 12px;
+  flex-direction: column;
 }
 
 .event-image {
@@ -77,7 +77,8 @@
 }
 
 .event-content {
-  flex: 1;
+  display: flex;
+  gap: 10px;
 }
 
 .event-title {
@@ -88,8 +89,10 @@
 }
 
 .event-date {
-  font-size: 16px;
+  font-size: 18px;
   color: black;
+  font-weight: bold;
+  margin: 0px;
 }
 
 .event-timer {
