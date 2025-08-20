@@ -1,6 +1,8 @@
 .event-list {
   max-width: 700px;
-  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  margin: 0px auto;
 }
 
 .event-list-title {
@@ -30,7 +32,7 @@
   border: 1px solid #ddd;
   border-radius: 12px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  margin-bottom: 16px;
+  margin: 10px 20px;
   overflow: hidden;
   background: #EAEFEF;
 }
@@ -91,7 +93,6 @@
 }
 
 .event-timer {
-  /* text-align: right; */
   font-size: 14px;
 }
 
