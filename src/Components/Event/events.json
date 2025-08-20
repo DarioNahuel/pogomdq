@@ -1,0 +1,123 @@
+    [
+        {
+            "eventID": "raidhour20250821",
+            "name": "Crowned Sword Zacian Raid Hour",
+            "eventType": "raid-hour",
+            "heading": "Hora Legendaria",
+            "link": "https://leekduck.com/events/raidhour20250821/",
+            "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "start": "2025-08-21T18:00:00.000",
+            "end": "2025-08-21T19:00:00.000",
+            "extraData": null
+        },
+        {
+            "eventID": "raidhour20250822",
+            "name": "Crowned Shield Zamazenta Raid Hour",
+            "eventType": "raid-hour",
+            "heading": "Hora Legendaria",
+            "link": "https://leekduck.com/events/raidhour20250822/",
+            "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "start": "2025-08-22T18:00:00.000",
+            "end": "2025-08-22T19:00:00.000",
+            "extraData": null
+        },
+        {
+            "eventID": "pokemon-go-fest-2025-max-finale",
+            "name": "Pokémon GO Fest 2025: Max Finale",
+            "eventType": "pokemon-go-fest",
+            "heading": "Pokémon GO Fest",
+            "link": "https://leekduck.com/events/pokemon-go-fest-2025-max-finale/",
+            "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-08-23-pokemon-go-fest-2025-max-finale/eternatus.jpg",
+            "start": "2025-08-23T10:00:00.000",
+            "end": "2025-08-24T18:00:00.000",
+            "extraData": null
+        },
+        {
+            "eventID": "max-mondays-2025-08-25",
+            "name": "Dynamax Chansey during Max Monday",
+            "eventType": "max-mondays",
+            "heading": "Lunes Max",
+            "link": "https://leekduck.com/events/max-mondays-2025-08-25/",
+            "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "start": "2025-08-25T18:00:00.000",
+            "end": "2025-08-25T19:00:00.000",
+            "extraData": null
+        },
+        {
+            "eventID": "pokemonspotlighthour2025-08-26",
+            "name": "Lechonk Spotlight Hour",
+            "eventType": "pokemon-spotlight-hour",
+            "heading": "Hora Destacada",
+            "link": "https://leekduck.com/events/pokemonspotlighthour2025-08-26/",
+            "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "start": "2025-08-26T18:00:00.000",
+            "end": "2025-08-26T19:00:00.000",
+            "extraData": null
+        },
+        {
+            "eventID": "raidhour20250827",
+            "name": "Necrozma Raid Hour",
+            "eventType": "raid-hour",
+            "heading": "Hora Legendaria",
+            "link": "https://leekduck.com/events/raidhour20250827/",
+            "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "start": "2025-08-27T18:00:00.000",
+            "end": "2025-08-27T19:00:00.000",
+            "extraData": null
+        },
+        {
+            "eventID": "august-communityday2025",
+            "name": "Rookidee Community Day",
+            "eventType": "community-day",
+            "heading": "Community Day",
+            "link": "https://leekduck.com/events/august-communityday2025/",
+            "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-08-30-august-communityday2025/august-cd-2025-rookidee-vote.jpg",
+            "start": "2025-08-30T14:00:00.000",
+            "end": "2025-08-30T17:00:00.000",
+            "extraData": null
+        },
+        {
+            "eventID": "max-mondays-2025-09-01",
+            "name": "Dynamax Pidove during Max Monday",
+            "eventType": "max-mondays",
+            "heading": "Lunes Max",
+            "link": "https://leekduck.com/events/max-mondays-2025-09-01/",
+            "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "start": "2025-09-01T18:00:00.000",
+            "end": "2025-09-01T19:00:00.000",
+            "extraData": null
+        },
+        {
+            "eventID": "september-communityday2025",
+            "name": "Flabébé Community Day",
+            "eventType": "community-day",
+            "heading": "Community Day",
+            "link": "https://leekduck.com/events/september-communityday2025/",
+            "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-14-september-communityday2025/september-cd-2025-flabebe.jpg",
+            "start": "2025-09-14T14:00:00.000",
+            "end": "2025-09-14T17:00:00.000",
+            "extraData": null
+        },
+        {
+            "eventID": "october-communityday2025",
+            "name": "October Community Day",
+            "eventType": "community-day",
+            "heading": "Community Day",
+            "link": "https://leekduck.com/events/october-communityday2025/",
+            "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "start": "2025-10-12T14:00:00.000",
+            "end": "2025-10-12T17:00:00.000",
+            "extraData": null
+        },
+        {
+            "eventID": "november-communityday2025",
+            "name": "November Community Day",
+            "eventType": "community-day",
+            "heading": "Community Day",
+            "link": "https://leekduck.com/events/november-communityday2025/",
+            "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "start": "2025-11-30T14:00:00.000",
+            "end": "2025-11-30T17:00:00.000",
+            "extraData": null
+        }
+    ]
