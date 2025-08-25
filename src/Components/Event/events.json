@@ -1,7 +1,7 @@
     [
         {
             "eventID": "raidhour20250821",
-            "name": "Crowned Sword Zacian Raid Hour",
+            "name": "Hora legendaria de Zacian espada coronada",
             "eventType": "raid-hour",
             "heading": "Hora Legendaria",
             "link": "https://leekduck.com/events/raidhour20250821/",
@@ -12,7 +12,7 @@
         },
         {
             "eventID": "raidhour20250822",
-            "name": "Crowned Shield Zamazenta Raid Hour",
+            "name": "Hora legendaria de Zamazenta escudo coronada",
             "eventType": "raid-hour",
             "heading": "Hora Legendaria",
             "link": "https://leekduck.com/events/raidhour20250822/",
@@ -34,7 +34,7 @@
         },
         {
             "eventID": "max-mondays-2025-08-25",
-            "name": "Dynamax Chansey during Max Monday",
+            "name": "Lunes max con Chansey Dynamax",
             "eventType": "max-mondays",
             "heading": "Lunes Max",
             "link": "https://leekduck.com/events/max-mondays-2025-08-25/",
@@ -45,7 +45,7 @@
         },
         {
             "eventID": "pokemonspotlighthour2025-08-26",
-            "name": "Lechonk Spotlight Hour",
+            "name": "Lechonk en Hora Destacada",
             "eventType": "pokemon-spotlight-hour",
             "heading": "Hora Destacada",
             "link": "https://leekduck.com/events/pokemonspotlighthour2025-08-26/",
@@ -56,7 +56,7 @@
         },
         {
             "eventID": "raidhour20250827",
-            "name": "Necrozma Raid Hour",
+            "name": "Hora Legandaria de Necrozma",
             "eventType": "raid-hour",
             "heading": "Hora Legendaria",
             "link": "https://leekduck.com/events/raidhour20250827/",
@@ -67,7 +67,7 @@
         },
         {
             "eventID": "august-communityday2025",
-            "name": "Rookidee Community Day",
+            "name": "Dia de la comunidad Rookidee",
             "eventType": "community-day",
             "heading": "Community Day",
             "link": "https://leekduck.com/events/august-communityday2025/",
@@ -78,7 +78,7 @@
         },
         {
             "eventID": "max-mondays-2025-09-01",
-            "name": "Dynamax Pidove during Max Monday",
+            "name": "Lunes max con Pidove Dynamax",
             "eventType": "max-mondays",
             "heading": "Lunes Max",
             "link": "https://leekduck.com/events/max-mondays-2025-09-01/",
